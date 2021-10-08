@@ -24,6 +24,9 @@
 
 ## Requirements:
 #### Magisk v19.0 or higher
+#### Brain
+#### Phone
+#### ThermodX Discussion Group 
 
 ## Changelogs & Credits:
 #### Will be available in final release :D
